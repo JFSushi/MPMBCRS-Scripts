@@ -1,3 +1,5 @@
+/*Written by JFSushi*/
+
 RaceList["sea elf"] = {
 	regExpSearch : /^((?=.*\b(elfs?|elves|elvish|elven)\b)(?=.*\b(sea|ocean)\b)).*$/i,
 	name : "Sea elf",
