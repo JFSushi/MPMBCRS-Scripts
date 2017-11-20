@@ -75,7 +75,7 @@ FeatsList["elven accuracy"] = {
 	source : ["X", 74],
 	prerequisite : "Being an Elf or a Half-Elf",
 	prereqeval : "(/elf|eladrin/i).test(CurrentRace.known)",
-	description : "Whenever I have advantage on an attack roll using Dex, Int, Wis or Cha, I can reroll one of the dice once. [+1 Dex, Int, Wis or Cha]",
+	description : "Whenever I have advantage on an attack roll using Dexterity, Intelligence, Wisdom or Charisma, I can reroll one of the dice once. [+1 Dex, Int, Wis or Cha]",
 	improvements : "Elven Accuracy (feat): +1 Dexterity, Intelligence, Wisdom or Charisma;",
 };
 FeatsList["fade away"] = {
