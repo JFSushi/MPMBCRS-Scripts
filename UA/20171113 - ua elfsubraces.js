@@ -1,4 +1,5 @@
-/*Written by JFSushi*/
+//Written by JFSushi
+//Taken from the 13/Nov/2017 UA:Elf Subraces - Source below
 
 RaceList["sea elf"] = {
 	regExpSearch : /^((?=.*\b(elfs?|elves|elvish|elven)\b)(?=.*\b(sea|ocean)\b)).*$/i,
