@@ -1,8 +1,8 @@
 //Written by JFSushi
 //Includes all new spells introduced in Xanathar's Guide to Everything
 
-
-//Incomplete - destriptions missing
+//This document is still incomplete as the descriptions are still missing from all spells
+//The script can still be used, and spells can be selected, but descriptions for the spells will be empty
 
 SpellsList["abi-dalzim's horrid wilting"] = {
 	name : "Abi-Dalzim's Horrid Wilting",
