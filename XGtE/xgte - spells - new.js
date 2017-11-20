@@ -322,7 +322,7 @@ SpellsList["mighty fortress"] = {
 	time : "1 min",
 	range : "1 mile",
 	components : "V,S,M\2020",
-	compMaterial : "A diamond worth at least 500gp, which the spell consumes.",
+	compMaterial : "A diamond worth at least 500gp, which the spell consumes",
 	duration : "Instantaneous",
 	description : "",
 	descriptionFull : ""
@@ -349,7 +349,7 @@ SpellsList["negative energy flood"] = {
 	time : "1 a",
 	range : "60 ft",
 	components : "V,M",
-	compMaterial : "A broken bone and a square of black silk.",
+	compMaterial : "A broken bone and a square of black silk",
 	duration : "Instantaneous",
 	description : "",
 	descriptionFull : ""
@@ -415,7 +415,7 @@ SpellsList["shadow of moil"] = {
 	time : "1 a",
 	range : "Self",
 	components : "V,S,M",
-	compMaterial : "An undead eyeball encased in a gem worth at least 150gp.",
+	compMaterial : "An undead eyeball encased in a gem worth at least 150gp",
 	duration : "Conc, 1 min",
 	description : "",
 	descriptionFull : ""
@@ -455,7 +455,7 @@ SpellsList["soul cage"] = {
 	time : "1 rea",
 	range : "60 ft",
 	components : "V,S,M",
-	compMaterial : "A tiny silver cage worth 100gp.",
+	compMaterial : "A tiny silver cage worth 100gp",
 	duration : "8 h",
 	description : "",
 	descriptionFull : ""
@@ -469,7 +469,7 @@ SpellsList["steel wind strike"] = {
 	time : "1 a",
 	range : "30 ft",
 	components : "S,M",
-	compMaterial : "A melee weapon worth at least 1 sp.",
+	compMaterial : "A melee weapon worth at least 1 sp",
 	duration : "Instantaneous",
 	description : "",
 	descriptionFull : ""
@@ -483,7 +483,7 @@ SpellsList["summon greater demon"] = {
 	time : "1 a",
 	range : "60 ft",
 	components : "V,S,M",
-	compMaterial : "A vial of blood from a humanoid killed within the past 24 hours.",
+	compMaterial : "A vial of blood from a humanoid killed within the past 24 hours",
 	duration : "Conc, 1 h",
 	description : "",
 	descriptionFull : ""
@@ -497,7 +497,7 @@ SpellsList["summon lesser demons"] = {
 	time : "1 a",
 	range : "60 ft",
 	components : "V,S,M",
-	compMaterial : "A vial of blood from a humanoid killed within the past 24 hours.",
+	compMaterial : "A vial of blood from a humanoid killed within the past 24 hours",
 	duration : "Conc, 1 h",
 	description : "",
 	descriptionFull : ""
@@ -524,7 +524,7 @@ SpellsList["temple of the gods"] = {
 	time : "1 h",
 	range : "120 ft",
 	components : "V,S,M",
-	compMaterial : "A holy symbol worth at least 5gp.",
+	compMaterial : "A holy symbol worth at least 5gp",
 	duration : "24 h",
 	description : "",
 	descriptionFull : ""
@@ -538,7 +538,7 @@ SpellsList["tenser's transformation"] = {
 	time : "1 a",
 	range : "Self",
 	components : "V,S,M",
-	compMaterial : "A few hairs from a bull.",
+	compMaterial : "A few hairs from a bull",
 	duration : "Conc, 10 min",
 	description : "",
 	descriptionFull : ""
@@ -578,7 +578,7 @@ SpellsList["wall of light"] = {
 	time : "1 a",
 	range : "120 ft",
 	components : "V,S,M",
-	compMaterial : "A hand mirror.",
+	compMaterial : "A hand mirror",
 	duration : "Conc, 10 min",
 	description : "",
 	descriptionFull : ""
