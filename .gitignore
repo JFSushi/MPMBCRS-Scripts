@@ -19,7 +19,7 @@ $RECYCLE.BIN/
 
 # Archive folder
 archive/**
-XGtE/inactive/**
+XGtE/excluded/**
 
 # Testing Sheet
 MPMB Character Sheet - Modded.pdf
