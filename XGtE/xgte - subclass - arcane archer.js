@@ -22,7 +22,7 @@ ClassSubList["fighter-arcane archer2"] = {
 			recovery : "short rest",
 			additional : levels.map( function(n) { return n < 3 ? "" : (n < 7 ? 2 : n < 10 ? 3 : n < 15 ? 4 : n < 18 ? 5 : 6) + " options known"; }),
 			extraname : "Arcane Shot Option",
-			extrachoices : ["Banishing Arrow [Abjuration]", "Brute Bane Arrow [Necromancy]", "Bursting Arrow [Evocation]", "Grasping Arrow [Conjuration]", "Mind-Scrambling Arrow [Enchantment]", "Piercing Arrow [Transmutation]", "Seeking Arrow [Divination]", "Shadow Arrow [Illusion]"],
+			extrachoices : ["Banishing Arrow [Abjuration]", "Beguiling Arrow [Enchantment]", "Bursting Arrow [Evocation]", "Enfeebling Arrow [Necromancy]", "Grasping Arrow [Conjuration]", "Piercing Arrow [Transmutation]", "Seeking Arrow [Divination]", "Shadow Arrow [Illusion]",],
 			"banishing arrow [abjuration]" : {
 				name : "Banishing Arrow [Abjuration]",
 				source : ["X", 29],
@@ -106,7 +106,7 @@ ClassSubList["fighter-arcane archer2"] = {
 			source : ["X", 28],
 			minlevel : 3,
 			description : "\n   " + "I gain proficiency with either the Arcana or Nature skill",
-			skillstxt : "\n\n" + toUni("Arcane Archer") + ": Choose Arcana or Nature."
+			skillstxt : "\n\n" + toUni("Arcane Archer") + ": Choose Arcana or Nature.",
 			abilitySave : 4,
 			spellcastingAbility : 4,
 			spellcastingBonus : {
@@ -121,9 +121,8 @@ ClassSubList["fighter-arcane archer2"] = {
 			name : "Magic Arrow",
 			source : ["X", 28],
 			minlevel : 7,
-			description : desc([
-				"Whenever I fire a nonmagical arrow from a short- or longbow I can make it magical",
-			]),
+			description : "Whenever I fire a nonmagical arrow from a short- or longbow I can make it magical"
+			//Somehow still results in a +1 on Longbow/Shortbow attacks
 		},
 		"subclassfeature7.1" : {
 			name : "Curving Shot",

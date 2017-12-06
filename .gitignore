@@ -17,9 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Archive folder
+# Project specific
 archive/**
 XGtE/excluded/**
+ToDo.txt
 
 # Testing Sheet
 MPMB Character Sheet - Modded.pdf
