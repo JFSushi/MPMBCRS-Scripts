@@ -103,7 +103,6 @@ RaceList["grugach"] = {
 		}
 	}
 };
-
 RaceList["avariel"] = {
 	regExpSearch : /avariel/i,
 	name : "Avariel",
@@ -133,7 +132,7 @@ RaceList["avariel"] = {
  
  
 SourceList["UA:ES"] = {
-    name : "2017/11/13 Unearthed Arcana: Elf Subraces",
+    name : "2017/11/13 Unearthed Arcana: Elf Subraces", //2017-11-13
     abbreviation : "UA:ES",
     group : "Unearthed Arcana",
     url : "https://media.wizards.com/2017/dnd/downloads/UA-ElfSubraces.pdf"

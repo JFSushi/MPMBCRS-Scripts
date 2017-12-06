@@ -122,7 +122,6 @@ ClassSubList["fighter-arcane archer2"] = {
 			source : ["X", 28],
 			minlevel : 7,
 			description : "Whenever I fire a nonmagical arrow from a short- or longbow I can make it magical"
-			//Somehow still results in a +1 on Longbow/Shortbow attacks
 		},
 		"subclassfeature7.1" : {
 			name : "Curving Shot",
